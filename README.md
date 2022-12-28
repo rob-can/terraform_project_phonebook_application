@@ -1,1 +1,1 @@
-# terraform_project_phonebook_application
+# terraform_projects_phonebook_application
